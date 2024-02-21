@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Hello World Version 3!!!");
+        System.out.println("Hello World Version 4!!!");
     }
 
     public String getMessage() {
